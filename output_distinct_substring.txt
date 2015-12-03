@@ -1,0 +1,13 @@
+--- Text ---
+abac
+--- Naive ---
+a
+ab
+aba
+abac
+ac
+b
+ba
+bac
+c
+Total Distinct Substrings: 9
